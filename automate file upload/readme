@@ -1,0 +1,6 @@
+This is the task given to us by the mentor
+Task details ----> 1. create 10 files 
+                   2. compress it 
+                   3. ask the user to enter two values 
+                          if both values are same push the tar file to master
+                          if both values are different push the tar file to branch
