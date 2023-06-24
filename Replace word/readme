@@ -1,0 +1,10 @@
+1.) The script will replace a word in a file ----> here sample.txt file
+2.) Download both the script and sample.txt file.
+3.) Upon script execution :- for this task
+                             a.) It asks for line number enter 5                 
+                             b.) Then enter the word welcome
+                             c.) Then enter the word guvi
+                             d.) Then enter the word learning
+                 		--------
+4.) In the sample.txt file 7th line contains word hello. so that line will be ignored.
+5.) All the other lines from line number 5 that containes word welcome will be executed.
