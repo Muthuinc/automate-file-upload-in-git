@@ -1,0 +1,6 @@
+1.) Execute the script file.
+2.) The script will give response about the URL. just type the domain name without www.
+3.) it is made for the task given. but it can be scalable. 
+4.) Error responses are stored in an array. so if anyone want to add more like  503: Service         Unavailable , 504: Gateway Timeout . Just add the error in the NUMARRAY in the script folder. and its custom response in MUMARRAY.
+
+
